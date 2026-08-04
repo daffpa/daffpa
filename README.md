@@ -100,20 +100,6 @@ CATATAN PENGGUNAAN (hapus komentar ini setelah selesai edit):
 
 ---
 
-### 🐍 Aktivitas Kontribusi
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/USERNAME_GITHUB_ANDA/USERNAME_GITHUB_ANDA/output/github-contribution-grid-snake.svg" alt="Snake animation">
-</p>
-
-<!--
-Cara mengaktifkan animasi snake otomatis:
-1. Di repo profil Anda, buat file: .github/workflows/snake.yml
-2. Isi workflow-nya mengikuti panduan resmi di: https://github.com/Platane/snk
-3. GitHub Actions akan otomatis meng-generate ulang animasi ini tiap hari.
--->
-
----
 
 <p align="center">
   <i>✨ Terima kasih sudah mampir! Jangan ragu untuk terhubung. ✨</i>
