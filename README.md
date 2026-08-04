@@ -99,7 +99,17 @@ CATATAN PENGGUNAAN (hapus komentar ini setelah selesai edit):
 </p>
 
 ---
+<picture data-importer="pacman">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/daffpa/daffpa/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/daffpa/daffpa/pacman-output/pacman-contribution-graph.svg?game=pacman">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/daffpa/daffpa/pacman-output/pacman-contribution-graph.svg?game=pacman">
+</picture>
 
+###
+
+<img data-importer="snake" src="https://raw.githubusercontent.com/daffpa/daffpa/snake-output/snake.svg" alt="Snake animation" />
+
+###
 
 <p align="center">
   <i>✨ Terima kasih sudah mampir! Jangan ragu untuk terhubung. ✨</i>
