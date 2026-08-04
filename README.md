@@ -53,49 +53,40 @@ CATATAN PENGGUNAAN (hapus komentar ini setelah selesai edit):
 ### 📌 Proyek Unggulan
 
 <details>
-<summary><b>🔹 [Nama Proyek 1]</b></summary>
+<summary><b>🔹 Web-gis-Daffa</b></summary>
 <br>
 
-**Masalah:** [ringkas masalah yang diselesaikan]
-**Solusi:** [pendekatan/tools yang dipakai]
-**Hasil:** [dampak atau insight yang didapat]
+**Masalah:** 
+**Solusi:** 
+**Hasil:** 
 
-🔗 [Lihat detail](LINK_PROYEK_1)
+🔗 [Lihat detail](https://github.com/daffpa/webgis-daffa-gusti)
 </details>
 
 <details>
-<summary><b>🔹 [Nama Proyek 2]</b></summary>
+<summary><b>🔹 WebGis_Rencana_Proyek_GeoAI_Morowali</b></summary>
 <br>
 
 **Masalah:** [ringkas masalah yang diselesaikan]
 **Solusi:** [pendekatan/tools yang dipakai]
 **Hasil:** [dampak atau insight yang didapat]
 
-🔗 [Lihat detail](LINK_PROYEK_2)
+🔗 [Lihat detail](https://github.com/daffpa/WebGis_Rencana_Proyek_GeoAI_Morowali)
 </details>
 
 <details>
-<summary><b>🔹 [Nama Proyek 3]</b></summary>
-<br>
-
-**Masalah:** [ringkas masalah yang diselesaikan]
-**Solusi:** [pendekatan/tools yang dipakai]
-**Hasil:** [dampak atau insight yang didapat]
-
-🔗 [Lihat detail](LINK_PROYEK_3)
-</details>
 
 ---
 
 ### 📊 Statistik GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME_GITHUB_ANDA&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" width="48%">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=USERNAME_GITHUB_ANDA&theme=radical&hide_border=true" alt="GitHub Streak" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api?username=daffpa&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" width="48%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=daffpa&theme=radical&hide_border=true" alt="GitHub Streak" width="48%">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME_GITHUB_ANDA&layout=compact&theme=radical&hide_border=true" alt="Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daffpa&layout=compact&theme=radical&hide_border=true" alt="Top Languages">
 </p>
 
 ---
