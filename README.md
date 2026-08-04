@@ -50,34 +50,6 @@ CATATAN PENGGUNAAN (hapus komentar ini setelah selesai edit):
 
 ---
 
-### 📌 Proyek Unggulan
-
-<details>
-<summary><b>🔹 Web-gis-Daffa</b></summary>
-<br>
-
-**Masalah:** 
-**Solusi:** 
-**Hasil:** 
-
-🔗 [Lihat detail](https://github.com/daffpa/webgis-daffa-gusti)
-</details>
-
-<details>
-<summary><b>🔹 WebGis_Rencana_Proyek_GeoAI_Morowali</b></summary>
-<br>
-
-**Masalah:** [ringkas masalah yang diselesaikan]
-**Solusi:** [pendekatan/tools yang dipakai]
-**Hasil:** [dampak atau insight yang didapat]
-
-🔗 [Lihat detail](https://github.com/daffpa/WebGis_Rencana_Proyek_GeoAI_Morowali)
-</details>
-
-<details>
-
----
-
 ### 📊 Statistik GitHub
 
 <p align="center">
