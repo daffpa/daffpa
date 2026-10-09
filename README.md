@@ -10,7 +10,7 @@ CATATAN PENGGUNAAN (hapus komentar ini setelah selesai edit):
 -->
 
 <p align="center">
-  <img src="[https://drive.google.com/file/d/15VipaWRyWufQlp3FyuXnWkvPXemj1XfT/view?usp=sharing]">
+  <img src="https://drive.google.com/file/d/15VipaWRyWufQlp3FyuXnWkvPXemj1XfT/view?usp=sharing">
 </p>
 
 <h1 align="center">Halo....👋</h1>
