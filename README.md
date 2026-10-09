@@ -10,7 +10,7 @@ CATATAN PENGGUNAAN (hapus komentar ini setelah selesai edit):
 -->
 
 <p align="center">
-  <img src="[URL_GAMBAR_BANNER_ANDA]https://drive.google.com/file/d/15VipaWRyWufQlp3FyuXnWkvPXemj1XfT/view?usp=sharing" alt="Banner" width="100%">
+  <img src="[https://drive.google.com/file/d/15VipaWRyWufQlp3FyuXnWkvPXemj1XfT/view?usp=sharing]">
 </p>
 
 <h1 align="center">Halo, saya Daffa 👋</h1>
