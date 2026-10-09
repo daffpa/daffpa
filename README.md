@@ -13,15 +13,15 @@ CATATAN PENGGUNAAN (hapus komentar ini setelah selesai edit):
   <img src="[https://drive.google.com/file/d/15VipaWRyWufQlp3FyuXnWkvPXemj1XfT/view?usp=sharing]">
 </p>
 
-<h1 align="center">Halo, saya Daffa 👋</h1>
+<h1 align="center">Halo....👋</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=F7A400&center=true&vCenter=true&width=600&lines=Business+Process+%26+Data+Enthusiast;Terus+Belajar+%26+Membangun;Selamat+Datang+di+Profil+Saya!" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <a href="[LINK_LINKEDIN_ANDA](https://www.linkedin.com/in/daffa-gusti-yanza-023778309/)"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="[LINK_WEBSITE_PORTOFOLIO_ANDA](https://portfolio-creative-it-daff.vercel.app/)"><img src="https://img.shields.io/badge/Portfolio-FF5733?style=for-the-badge&logo=google-chrome&logoColor=white"></a>
+  <a href="[https://www.linkedin.com/in/daffa-gusti-yanza-023778309/]"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="[https://portfolio-creative-it-daff.vercel.app/]"><img src="https://img.shields.io/badge/Portfolio-FF5733?style=for-the-badge&logo=google-chrome&logoColor=white"></a>
   <a href="mailto:daffagyanza@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
 
