@@ -20,8 +20,8 @@ CATATAN PENGGUNAAN (hapus komentar ini setelah selesai edit):
 </p>
 
 <p align="center">
-  <a href="[https://www.linkedin.com/in/daffa-gusti-yanza-023778309/]"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="[https://portfolio-creative-it-daff.vercel.app/]"><img src="https://img.shields.io/badge/Portfolio-FF5733?style=for-the-badge&logo=google-chrome&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/daffa-gusti-yanza-023778309/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://portfolio-creative-it-daff.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-FF5733?style=for-the-badge&logo=google-chrome&logoColor=white"></a>
   <a href="mailto:daffagyanza@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
 
